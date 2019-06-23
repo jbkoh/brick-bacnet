@@ -1,0 +1,2 @@
+git+https://github.com/jbkoh/bacpypes@276-semantic-tags
+#git+https://github.com/jbkoh/brick_data.git@master
